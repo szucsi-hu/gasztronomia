@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#container{
+    width: 500px;
+    background-color: rosybrown;
+    position: static;
+}
+
+.colors1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 0px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.colors2{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.3);
+    margin: 0px;
+}
